@@ -25,7 +25,7 @@
 
 //           {/* WHATSAPP */}
 //           <a
-//             href="https://wa.me/919098273259"
+//             href="https://wa.me/919301499995"
 //             target="_blank"
 //             className="bg-green-500 text-white px-5 py-2 rounded-full font-semibold shadow hover:scale-105 transition"
 //           >
@@ -34,7 +34,7 @@
 
 //           {/* CALL */}
 //           <a
-//             href="tel:9098273259"
+//             href="tel: 9301499995"
 //             className="bg-black text-white px-5 py-2 rounded-full font-semibold shadow hover:bg-gray-800 transition"
 //           >
 //             Call Now
@@ -84,7 +84,7 @@ export default function Footer() {
 
           {/* WHATSAPP */}
           <a
-            href="https://wa.me/919098273259"
+            href="https://wa.me/919301499995"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-green-500 text-white px-5 py-2 rounded-full font-medium shadow hover:scale-105 transition"
@@ -94,7 +94,7 @@ export default function Footer() {
 
           {/* CALL */}
           <a
-            href="tel:9098273259"
+            href="tel:9301499995"
             className="bg-black text-white px-5 py-2 rounded-full font-medium shadow hover:bg-gray-800 transition"
           >
             Call Now

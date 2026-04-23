@@ -16,7 +16,7 @@ Name: ${form.name}
 Phone: ${form.phone}
 Requirement: ${form.message}`;
 
-    window.open(`https://wa.me/919584573759?text=${encodeURIComponent(text)}`);
+    window.open(`https://wa.me/919301499995?text=${encodeURIComponent(text)}`);
   };
 
   return (
@@ -37,8 +37,8 @@ Requirement: ${form.message}`;
 
           <div className="space-y-3 text-gray-300">
             <p>📍 India (Pan India Service)</p>
-            <p>📞 +91 8319399961</p>
-            <p>📞 +91 9584573759</p>
+            <p>📞 +91 9301499995</p>
+            <p>📞 +91 8505959159</p>
             <p>📧 info@smservice.co.in</p>
           </div>
         </div>
